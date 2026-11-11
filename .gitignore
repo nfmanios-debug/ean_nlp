@@ -1,0 +1,6 @@
+amazon_reviews_es/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.log
